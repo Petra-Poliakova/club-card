@@ -1,6 +1,7 @@
 const Images = {
   profile: {
     clubCard: require("../assets/img/club-card.png"),
+    myBenefit: require("../assets/img/benefits.jpg"),
   },
 
   food: {
